@@ -1,0 +1,138 @@
+h1{
+  color: #80c7fa;
+}
+img {
+  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
+  background-color:rgb(135,206,235);
+}
+.img{
+  padding: 20px;
+  width:200px;
+  height: 200px;
+
+}
+
+.header{
+  width:960px;
+  padding:20px;
+  text-align: left;
+  color:white;
+  font-size:30px
+}
+.contain1{
+  float:left
+
+}
+.text1{
+
+  position: absolute;
+  width: 50%;
+  float: left;
+  padding: 20px;
+  width: 700px;
+  height: 250px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  letter-spacing: 0px;
+  line-height: 1.2;
+  text-align: left;
+}
+
+.text2{
+  position: absolute;
+  top: 800px;
+  width: 50%;
+  float: left;
+  padding: 20px;
+  width: 700px;
+  height: 300px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  letter-spacing: 0px;
+  line-height: 1.2;
+  text-align: left;
+}
+
+.white{
+  color: #FFFFFF;
+}
+
+.blue{
+
+  color: #80c7fa;
+}
+
+.contain2{
+  float:right;
+  width: 960px;
+}
+.box1{
+  position: absolute;
+  bottom: 900px
+  bottom: 10px;
+  width: 50%;
+  float: right;
+  padding: 20px;
+  width: 500px;
+  height: 100px;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 48px;
+  line-height: 2;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "IBM Plex Sans", sans-serif;
+  color:#FFFFFF;
+  background: #33AAFF;
+}
+.box2{
+  position: absolute;
+  top:  900px;
+  width: 50%;
+  float: right;
+  padding: 20px;
+  width: 500px;
+  height: 100px;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 48px;
+  line-height: 2;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "IBM Plex Sans", sans-serif;
+  color:#FFFFFF;
+  background: #33AAFF;
+}
+.skill{
+  float:right;
+}
+
+.hobbies{
+  float:right;
+}
+
+.text3{
+  position: absolute;
+  bottom: 500px;
+  width: 50%;
+  float:right;
+  padding: 20px;
+  width: 700px;
+  height: 100px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  letter-spacing: 0px;
+  line-height: 1.2;
+  text-align: left;
+}
+
+.code{
+  padding: 20px;
+  width:200px;
+  height: 200px;
+}
